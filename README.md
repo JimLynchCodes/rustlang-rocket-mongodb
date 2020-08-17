@@ -26,7 +26,7 @@ MONGO_PORT=27017" > .env
 
 
 ```bash
-rustup default nightly # Pear requires a nightly or dev version of Rust
+rustup default nightly # Peer requires a nightly or dev version of Rust
 ```
 
 ```bash
